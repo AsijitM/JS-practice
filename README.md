@@ -9,3 +9,5 @@ You can preview the webpages in the follwing links:
 3.Picture-in-Picture: https://raw.githack.com/AsijitM/JS-practice/master/3.PiP/index.html
 
 4.Joke-Teller: https://raw.githack.com/AsijitM/JS-practice/master/4.Joke%20Teller/index.html
+
+5.Light-Dark Mode v1: https://raw.githack.com/AsijitM/JS-practice/master/5.Light-Dark%20Mode%20v1/index.html
