@@ -11,3 +11,5 @@ You can preview the webpages in the follwing links:
 4.Joke-Teller: https://raw.githack.com/AsijitM/JS-practice/master/4.Joke%20Teller/index.html
 
 5.Light-Dark Mode v1: https://raw.githack.com/AsijitM/JS-practice/master/5.Light-Dark%20Mode%20v1/index.html
+
+6. RGB color Slider : https://raw.githack.com/AsijitM/JS-practice/tree/master/6.%20RGB%20color%20slider
